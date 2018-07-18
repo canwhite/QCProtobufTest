@@ -1,0 +1,6 @@
+framework module Pods_QCProtobuf {
+  umbrella header "Pods-QCProtobuf-umbrella.h"
+
+  export *
+  module * { export * }
+}
